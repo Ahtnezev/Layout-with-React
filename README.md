@@ -2,9 +2,8 @@
 
 Una vez descargado el proyecto, utilizar el comando:
 
-cd <nombre-proyecto>
-npm i
-npm start
+# npm i
+# npm start
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
